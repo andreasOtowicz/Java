@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/C:/Users/andreas/Desktop/Documents/TI/SEGUNDO%20ANO/3º%20Periodo/Projeto2º/OrdemServico/src/Telas/cadastroUsuario.java</file>
+        <file>file:/C:/Users/andreas/Desktop/Documents/TI/SEGUNDO%20ANO/3º%20Periodo/Projeto2º/OrdemServico/src/ordemservico/model/Usuario.java</file>
+        <file>file:/C:/Users/andreas/Desktop/Documents/TI/SEGUNDO%20ANO/3º%20Periodo/Projeto2º/OrdemServico/src/ordemservico/model/Departamento.java</file>
+        <file>file:/C:/Users/andreas/Desktop/Documents/TI/SEGUNDO%20ANO/3º%20Periodo/Projeto2º/OrdemServico/src/ordemservico/model/AbrirOrdemS.java</file>
+        <file>file:/C:/Users/andreas/Desktop/Documents/TI/SEGUNDO%20ANO/3º%20Periodo/Projeto2º/OrdemServico/src/Ordem_ServicoDAO/ConcluirOSDAO.java</file>
+        <file>file:/C:/Users/andreas/Desktop/Documents/TI/SEGUNDO%20ANO/3º%20Periodo/Projeto2º/OrdemServico/src/ordemservico/model/ConcluirOrdemS.java</file>
+        <file>file:/C:/Users/andreas/Desktop/Documents/TI/SEGUNDO%20ANO/3º%20Periodo/Projeto2º/OrdemServico/src/ordemservico/model/StatusOS.java</file>
+        <file>file:/C:/Users/andreas/Desktop/Documents/TI/SEGUNDO%20ANO/3º%20Periodo/Projeto2º/OrdemServico/src/Ordem_ServicoDAO/ProcessosDAO.java</file>
+        <file>file:/C:/Users/andreas/Desktop/Documents/TI/SEGUNDO%20ANO/3º%20Periodo/Projeto2º/OrdemServico/src/Telas/AbrirOrdemServico.java</file>
+        <file>file:/C:/Users/andreas/Desktop/Documents/TI/SEGUNDO%20ANO/3º%20Periodo/Projeto2º/OrdemServico/src/Implementes/AbrirOSImplements.java</file>
+        <file>file:/C:/Users/andreas/Desktop/Documents/TI/SEGUNDO%20ANO/3º%20Periodo/Projeto2º/OrdemServico/src/Implementes/FecharOSImplements.java</file>
+        <file>file:/C:/Users/andreas/Desktop/Documents/TI/SEGUNDO%20ANO/3º%20Periodo/Projeto2º/OrdemServico/src/Implementes/ProcessoImplements.java</file>
+        <file>file:/C:/Users/andreas/Desktop/Documents/TI/SEGUNDO%20ANO/3º%20Periodo/Projeto2º/OrdemServico/src/Implementes/UsuarioImplements.java</file>
+        <file>file:/C:/Users/andreas/Desktop/Documents/TI/SEGUNDO%20ANO/3º%20Periodo/Projeto2º/OrdemServico/src/Telas/FecharOrdemServico.java</file>
+        <file>file:/C:/Users/andreas/Desktop/Documents/TI/SEGUNDO%20ANO/3º%20Periodo/Projeto2º/OrdemServico/src/Telas/Processamento.java</file>
+        <file>file:/C:/Users/andreas/Desktop/Documents/TI/SEGUNDO%20ANO/3º%20Periodo/Projeto2º/OrdemServico/src/Implementes/DepartamentoImplements.java</file>
+        <file>file:/C:/Users/andreas/Desktop/Documents/TI/SEGUNDO%20ANO/3º%20Periodo/Projeto2º/OrdemServico/src/ordemServicoConexao/conexaoUtilOS.java</file>
+    </open-files>
+</project-private>
